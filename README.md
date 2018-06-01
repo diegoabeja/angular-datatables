@@ -1,3 +1,13 @@
+# Manual
+This is a Data Table project.
+It may take a little long to load as it loads a JSON file of 5000 objects.
+Open the site.
+Click 'Table' to load the table.
+Adjust 'Show Entry' to show page length.
+Type in 'Search box' to search entries.
+Click headers to sort in ascending or descending order.
+Click 'Page Numbers', 'First/Last', 'Next/Previous' for specific pages.
+
 # AngularDatatables
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.5.
