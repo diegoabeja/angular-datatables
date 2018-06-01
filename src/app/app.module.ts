@@ -2,7 +2,7 @@ import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
 import { DataTablesModule } from 'angular-datatables';
 import { HttpClientModule } from '@angular/common/http';
-// import { AppRoutingModule } from './/app-routing.module';
+import { AppRoutingModule } from './/app-routing.module';
 
 import { AppComponent } from './app.component';
 import { UrlDataService } from './url-data.service';
@@ -23,7 +23,7 @@ import { HomeComponent } from './home/home.component';
     BrowserModule,
     DataTablesModule,
     HttpClientModule,
-    // AppRoutingModule
+    AppRoutingModule
   ],
   providers: [UrlDataService],
   bootstrap: [AppComponent]
