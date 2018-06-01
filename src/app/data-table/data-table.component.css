@@ -1,0 +1,14 @@
+div {
+  margin-top: 10px;
+}
+table {
+  font-family: arial;
+  color: darkslategrey;
+}
+table.dataTable tbody td {
+  text-align: center;
+}
+
+img {
+  width: 50%;
+}
